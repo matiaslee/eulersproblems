@@ -11,7 +11,6 @@
 #
 
 from math import ceil
-import doctest
 
 multiples = lambda x, N : [ x * i for i in range(1, ceil(N/x))]
 
@@ -27,6 +26,5 @@ def sum_shared_mult (a=5 , b=3 , N=1000):
 	return sum(vals_to_sum) 
 
 if __name__ == '__main__':
-	doctest.testmod()
 	print(sum_shared_mult())
 
