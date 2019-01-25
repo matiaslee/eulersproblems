@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 #
-# Problem 30: Factorial digit sum - https://projecteuler.net/problem=20
+# Problem 20: Factorial digit sum - https://projecteuler.net/problem=20
 # By Matias D. Lee. 
 #
 # n! means n × (n − 1) × ... × 3 × 2 × 1
